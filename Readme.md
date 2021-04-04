@@ -1,0 +1,3 @@
+>put the folder of jsons in the root directory, with default name analyst, or a name of whatever you wish, as long as you run the program with the name of the folder as a second argument
+>By default, the program will not build an index each time it is run, so if you want to manually build the index, just run reset.py to delete the inverted index, or do it manually, whatever works for you 
+>tldr, python main.py
